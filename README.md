@@ -49,5 +49,5 @@ The project was developed using the fetch() library in JavaScript to make HTTP r
   </tr>
 </table>
 
-## :dart: Status do projeto
+## :dart: Project status
 * Concluded! :ballot_box_with_check:
