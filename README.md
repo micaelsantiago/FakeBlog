@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Fake Blog Project" src=".github/preview.jpeg" width="100%">
+  <img alt="Fake Blog Project" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
